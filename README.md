@@ -4,10 +4,8 @@ A curated repository for our survey on **LLM-based conversational recommender sy
 
 This repository contains the manuscript source and a lightweight paper index organized from two complementary perspectives:
 
-- **Application scenarios**: what role LLMs play in CRS
-- **Technical paradigms**: how LLMs are integrated into CRS
-
-The survey manuscript source is available in [`main_arxiv.tex`](./main_arxiv.tex).
+- **Research Dimensions**: what role LLMs play in CRS
+- **Technical Paradigms**: how LLMs are integrated into CRS
 
 ## Overview
 
@@ -15,16 +13,16 @@ Conversational recommender systems aim to understand user needs through multi-tu
 
 To make this landscape easier to navigate, we organize the literature in this repository along:
 
-- **6 application scenarios**
+- **6 research dimensions**
 - **5 technical paradigms**
 
 This README is intended as a quick entry point for readers, while the full survey provides a more systematic discussion.
 
-## Application Scenarios
+## Research Dimensions
 
-The following tables list the papers discussed under each application scenario in the survey.
+The following tables list the papers discussed under each research dimension in the survey.
 
-- A paper may appear in multiple scenarios because one method can serve multiple roles in CRS.
+- A paper may appear in multiple research dimensions because one method can serve multiple roles in CRS.
 - In this section, we keep only two columns as requested: `Method` and `Paper`.
 
 ### User Modeling
@@ -242,32 +240,8 @@ If you want a quick reading path through the literature, the following route wor
 2. Then read **Prompt Engineering**, **Fine-Tuning**, and **Retrieval-Enhanced Methods** to see the major implementation routes.
 3. Finally, move to **Evaluation**, **Trustworthy Recommendation**, and **Agent-based Methods** for system-level concerns.
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── main_arxiv.tex
-├── sample-base.bib
-├── named.bst
-├── fig/
-└── author/
-```
-
-- [`main_arxiv.tex`](./main_arxiv.tex): main survey manuscript
-- [`sample-base.bib`](./sample-base.bib): bibliography file
-- [`fig/`](./fig): figures used in the manuscript
-- [`author/`](./author): author images and related assets
 
 ## Citation
-
 If you find this repository helpful, please cite our survey paper.
 
-The manuscript source is currently included in this repository. You can update this section with the final public paper link and BibTeX entry once the paper is released.
-
-## Notes
-
-- This README is a compact index rather than the full survey.
-- For full paper titles and bibliographic details, please refer to [`sample-base.bib`](./sample-base.bib).
-- The scenario and technique groupings follow the taxonomy used in the survey manuscript.
 
