@@ -4,7 +4,7 @@ A curated repository for our survey on **LLM-based conversational recommender sy
 
 This repository contains the manuscript source and a lightweight paper index organized from two complementary perspectives:
 
-- **Research Dimensions**: what role LLMs play in CRS
+- **Research Focuses**: what role LLMs play in CRS
 - **Technical Paradigms**: how LLMs are integrated into CRS
 
 ## Overview
