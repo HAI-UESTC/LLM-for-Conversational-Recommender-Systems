@@ -136,9 +136,6 @@ The following tables list the papers discussed under each research dimension in 
 
 The following tables list the methods covered in our survey taxonomy under the five core technical paradigms.
 
-- Total indexed methods in this section: **57**
-- Link policy: we use direct arXiv links when they are available in the bibliography; otherwise we provide a Google Scholar search link for quick access.
-
 ### Prompt Engineering
 
 | Method | Paper | Venue | Notable Techniques |
