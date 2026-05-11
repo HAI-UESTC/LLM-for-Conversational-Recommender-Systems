@@ -9,6 +9,7 @@ Conversational recommender systems aim to understand user needs through multi-tu
 To make this landscape easier to navigate, we organize the literature in this repository along:
 - **6 research focuses**
 - **5 technical paradigms**
+
 This README is intended as a quick entry point for readers, while the full survey provides a more systematic discussion.
 
 ## Research Dimensions
