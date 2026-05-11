@@ -1,30 +1,18 @@
 # Large Language Models for Conversational Recommender Systems: A Dual-View Survey
-
 A curated repository for our survey on **LLM-based conversational recommender systems (CRS)**.
-
 This repository contains the manuscript source and a lightweight paper index organized from two complementary perspectives:
-
 - **Research Focuses**: what role LLMs play in CRS
 - **Technical Paradigms**: how LLMs are integrated into CRS
 
 ## Overview
-
 Conversational recommender systems aim to understand user needs through multi-turn interaction and provide grounded, personalized recommendations. With the introduction of large language models, CRS research has rapidly expanded from prompt-based interaction to retrieval grounding, fine-tuning, multi-agent planning, data construction, simulation, and trustworthy deployment.
-
 To make this landscape easier to navigate, we organize the literature in this repository along:
-
 - **6 research focuses**
 - **5 technical paradigms**
-
 This README is intended as a quick entry point for readers, while the full survey provides a more systematic discussion.
 
 ## Research Dimensions
-
 The following tables list the papers discussed under each research dimension in the survey.
-
-- A paper may appear in multiple research dimensions because one method can serve multiple roles in CRS.
-- In this section, we keep only two columns as requested: `Method` and `Paper`.
-
 ### User Modeling
 
 | Method | Paper |
